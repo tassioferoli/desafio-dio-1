@@ -1,7 +1,7 @@
 //Variáveis para nome e xp do heroi
 
-let nome = 'John Doe';
-let xpHeroi = 20503;
+let nome = 'Carlos';
+let xpHeroi = 7590;
 
 //Extrutura de decisão para verificar se o heroi tem xp suficiente para subir de nível
 if (xpHeroi <= 1000) {
